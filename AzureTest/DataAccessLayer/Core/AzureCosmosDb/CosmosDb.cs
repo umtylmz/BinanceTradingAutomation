@@ -17,8 +17,8 @@ namespace DataAccess.AzureCosmosDb
         private readonly CosmosClient _client;
         private readonly Database _database;
         private readonly Container _container;
-        private const string _endpointUri = "https://umitylmz.documents.azure.com:443/";
-        private const string _primaryKey = "iFWONRxCVQWwyMi6rCjyhymh9oLCFa5ZIlJZHi5LNVTXbosmrPPdJ6YRJzJEXVBsN2IozZUZWmFtPhtmdJeEog==";
+        private const string _endpointUri = "";
+        private const string _primaryKey = "";
         private const string _databaseId = "TradingDatabase";
         private const string _containerId = "TradingContainer";
         internal Container ContainerInstance { get { return _container; } }
