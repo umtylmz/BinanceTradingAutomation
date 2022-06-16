@@ -1,0 +1,410 @@
+﻿++Solution 'binance-connector-dotnet' ‎(6 of 6 projects)
+i:{00000000-0000-0000-0000-000000000000}:binance-connector-dotnet.sln
+++TradingAutomationWorker
+i:{00000000-0000-0000-0000-000000000000}:TradingAutomationWorker
+++Connected Services 
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:>1293
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:>1291
+++Dependencies
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:>1295
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:>1289
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:>889
+i:{d8336cee-e1ce-4829-98ba-b9898422e626}:>1058
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:>1057
+i:{9d66438e-1c6f-4ea3-919e-bad25978b96c}:>1290
+++Properties
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\properties\
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\azuretest\properties\
+++Domain
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\domain\
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\bin\debug\net6.0\domain.dll
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\bin\debug\net6.0\domain.dll
+i:{00000000-0000-0000-0000-000000000000}:Domain
+i:{9d66438e-1c6f-4ea3-919e-bad25978b96c}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\bin\debug\net6.0\domain.dll
+++Abstract
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\domain\abstract\
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\abstract\
+++Entity
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\domain\entity\
+++Interface
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\domain\interface\
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\interface\
+++Request
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\domain\request\
+++Response
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\domain\response\
+++EF
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\ef\
+++Job
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\job\
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\azuretest\job\
+++Migrations
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\migrations\
+++Test
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\test\
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\azuretest\test\
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\test\
+++appsettings.Development.json
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\appsettings.development.json
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\azuretest\appsettings.development.json
+++appsettings.json
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\appsettings.json
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\azuretest\appsettings.json
+++Dockerfile
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\dockerfile
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\azuretest\dockerfile
+++Program.cs
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\program.cs
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\azuretest\program.cs
+++Worker.cs
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\worker.cs
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\azuretest\worker.cs
+++No service dependencies discovered
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:>1294
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:>1292
+++Analyzers
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:analyzers
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:analyzers
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:analyzers
+i:{d8336cee-e1ce-4829-98ba-b9898422e626}:analyzers
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:analyzers
+i:{9d66438e-1c6f-4ea3-919e-bad25978b96c}:analyzers
+++Frameworks
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:frameworks
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:frameworks
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:frameworks
+i:{9d66438e-1c6f-4ea3-919e-bad25978b96c}:frameworks
+++Packages
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:packages
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:packages
+i:{d8336cee-e1ce-4829-98ba-b9898422e626}:packages
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:packages
+++Projects
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:projects
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:projects
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:projects
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:projects
+i:{9d66438e-1c6f-4ea3-919e-bad25978b96c}:projects
+++PublishProfiles
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\properties\publishprofiles\
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\azuretest\properties\publishprofiles\
+++launchSettings.json
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\properties\launchsettings.json
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\azuretest\properties\launchsettings.json
+++TaskAbstract.cs
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\domain\abstract\taskabstract.cs
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\abstract\taskabstract.cs
+++BaseEntity.cs
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\domain\entity\baseentity.cs
+++Process.cs
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\domain\entity\process.cs
+++SymbolPrice.cs
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\domain\entity\symbolprice.cs
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\model\symbolprice.cs
+++ITask.cs
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\domain\interface\itask.cs
+++M1Request.cs
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\domain\request\m1request.cs
+++GlobalResponse.cs
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\domain\response\globalresponse.cs
+++TAContext.cs
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\ef\tacontext.cs
+++CommonJob.cs
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\job\commonjob.cs
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\azuretest\job\commonjob.cs
+++M1.cs
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\job\m1.cs
+++20220525190232_initial.cs
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\migrations\20220525190232_initial.cs
+++TAContextModelSnapshot.cs
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\migrations\tacontextmodelsnapshot.cs
+++Isolated10XTest1.cs
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\test\isolated10xtest1.cs
+++Spot.cs
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\test\spot.cs
+++Spot2.cs
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\test\spot2.cs
+++Spot2Binance.cs
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\test\spot2binance.cs
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\azuretest\test\spot2binance.cs
+++Spot3.cs
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\test\spot3.cs
+++.dockerignore
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\.dockerignore
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\.dockerignore
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{9d66438e-1c6f-4ea3-919e-bad25978b96c}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{9d66438e-1c6f-4ea3-919e-bad25978b96c}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:c:\users\ümit yılmaz\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{9d66438e-1c6f-4ea3-919e-bad25978b96c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\microsoft.netcore.app
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\azuretest\microsoft.netcore.app
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\microsoft.netcore.app
+i:{9d66438e-1c6f-4ea3-919e-bad25978b96c}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\helper\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (6.0.5)
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:>1329
+++Microsoft.EntityFrameworkCore.Design (6.0.5)
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:>1332
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.5)
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:>1330
+++Microsoft.EntityFrameworkCore.Tools (6.0.5)
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:>1334
+++Microsoft.Extensions.Hosting (6.0.1)
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:>1331
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:>1357
+++Microsoft.VisualStudio.Azure.Containers.Tools.Targets (1.14.0)
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:>1335
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:>1359
+++Newtonsoft.Json (13.0.1)
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:>1333
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:>1358
+i:{d8336cee-e1ce-4829-98ba-b9898422e626}:>1306
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:>1341
+++Common
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\common\bin\debug\netstandard2.0\common.dll
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\common\bin\debug\netstandard2.0\common.dll
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\common\
+i:{00000000-0000-0000-0000-000000000000}:Common
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\common\bin\debug\netstandard2.0\common.dll
+++Spot
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\bin\debug\netstandard2.0\spot.dll
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\bin\debug\netstandard2.0\spot.dll
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\bin\debug\netstandard2.0\spot.dll
+i:{00000000-0000-0000-0000-000000000000}:Spot
+++BinanceTradingAutomation.pubxml
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\properties\publishprofiles\binancetradingautomation.pubxml
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\azuretest\properties\publishprofiles\binancetradingautomation.pubxml
+++testumit123.pubxml
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\properties\publishprofiles\testumit123.pubxml
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\azuretest\properties\publishprofiles\testumit123.pubxml
+++20220525190232_initial.Designer.cs
+i:{1e54ee6f-4bc7-48ee-861b-622cc4892102}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\tradingautomationworker\migrations\20220525190232_initial.designer.cs
+++AzureTest
+i:{00000000-0000-0000-0000-000000000000}:AzureTest
+++IsolatedMarginV1.cs
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\azuretest\job\isolatedmarginv1.cs
+++SpotTest3.cs
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\azuretest\test\spottest3.cs
+++Helper
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\helper\bin\debug\net6.0\helper.dll
+i:{00000000-0000-0000-0000-000000000000}:Helper
+++UmtAutoTrade.pubxml
+i:{44d483a7-5411-46de-a4ae-e9289ab9e4bb}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\azuretest\properties\publishprofiles\umtautotrade.pubxml
+++Enum
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\enum\
+++Model
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\model\
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\test\model\
+++TestTaskDetail.cs
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\test\model\testtaskdetail.cs
+++TestWallet.cs
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\test\model\testwallet.cs
+++Wallet.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\wallet.cs
+++Constant.cs
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\common\constant.cs
+++AssetTransferDirectionEnum.cs
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\enum\assettransferdirectionenum.cs
+++CurrencyEnum.cs
+++M1StatusEnum.cs
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\enum\m1statusenum.cs
+++MarginLevelStatusEnum.cs
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\enum\marginlevelstatusenum.cs
+++MessageTypeEnum.cs
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\enum\messagetypeenum.cs
+++SpotTradingStatusEnum.cs
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\enum\spottradingstatusenum.cs
+++TradeIntervalEnum.cs
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\enum\tradeintervalenum.cs
+++TradingPairEnum.cs
+++ITaskDetail.cs
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\interface\itaskdetail.cs
+++IWallet.cs
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\interface\iwallet.cs
+++BinanceResponse
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\model\binanceresponse\
+++CoinData.cs
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\model\coindata.cs
+++CoinNetwork.cs
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\model\coinnetwork.cs
+++IsolatedAsset.cs
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\model\isolatedasset.cs
+++IsolatedAssetDetail.cs
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\model\isolatedassetdetail.cs
+++IsolatedMarginAccountInfo.cs
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\model\isolatedmarginaccountinfo.cs
+++IsolatedMarginWallet.cs
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\model\isolatedmarginwallet.cs
+++IsolatedTaskDetailV1.cs
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\model\isolatedtaskdetailv1.cs
+++M1JobData.cs
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\model\m1jobdata.cs
+++SpotTaskDetailV1.cs
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\model\spottaskdetailv1.cs
+++SpotWallet.cs
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\model\spotwallet.cs
+++QueryIsolatedMarginAccountInfoResponse.cs
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\model\binanceresponse\queryisolatedmarginaccountinforesponse.cs
+++BinanceClientException.cs
+i:{d8336cee-e1ce-4829-98ba-b9898422e626}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\common\binanceclientexception.cs
+++BinanceHttpException.cs
+i:{d8336cee-e1ce-4829-98ba-b9898422e626}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\common\binancehttpexception.cs
+++BinanceLoggingHandler.cs
+i:{d8336cee-e1ce-4829-98ba-b9898422e626}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\common\binancelogginghandler.cs
+++BinanceServerException.cs
+i:{d8336cee-e1ce-4829-98ba-b9898422e626}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\common\binanceserverexception.cs
+++BinanceService.cs
+i:{d8336cee-e1ce-4829-98ba-b9898422e626}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\common\binanceservice.cs
+++BinanceWebSocket.cs
+i:{d8336cee-e1ce-4829-98ba-b9898422e626}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\common\binancewebsocket.cs
+++BinanceWebSocketHandler.cs
+i:{d8336cee-e1ce-4829-98ba-b9898422e626}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\common\binancewebsockethandler.cs
+++IBinanceWebSocketHandler.cs
+i:{d8336cee-e1ce-4829-98ba-b9898422e626}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\common\ibinancewebsockethandler.cs
+++StyleCop.Analyzers
+i:{d8336cee-e1ce-4829-98ba-b9898422e626}:c:\users\ümit yılmaz\.nuget\packages\stylecop.analyzers\1.1.118\analyzers\dotnet\cs\stylecop.analyzers.dll
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\.nuget\packages\stylecop.analyzers\1.1.118\analyzers\dotnet\cs\stylecop.analyzers.dll
+++StyleCop.Analyzers.CodeFixes
+i:{d8336cee-e1ce-4829-98ba-b9898422e626}:c:\users\ümit yılmaz\.nuget\packages\stylecop.analyzers\1.1.118\analyzers\dotnet\cs\stylecop.analyzers.codefixes.dll
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\.nuget\packages\stylecop.analyzers\1.1.118\analyzers\dotnet\cs\stylecop.analyzers.codefixes.dll
+++Microsoft.Extensions.Logging.Abstractions (5.0.0)
+i:{d8336cee-e1ce-4829-98ba-b9898422e626}:>1305
+++NETStandard.Library (2.0.3)
+i:{d8336cee-e1ce-4829-98ba-b9898422e626}:>1307
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:>1342
+++StyleCop.Analyzers (1.1.118)
+i:{d8336cee-e1ce-4829-98ba-b9898422e626}:>1308
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:>1343
+++Models
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\
+++.nuspec
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\.nuspec
+++BLVT.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\blvt.cs
+++BSwap.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\bswap.cs
+++C2C.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\c2c.cs
+++Convert.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\convert.cs
+++CryptoLoans.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\cryptoloans.cs
+++Fiat.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\fiat.cs
+++Futures.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\futures.cs
+++GiftCard.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\giftcard.cs
+++MarginAccountTrade.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\marginaccounttrade.cs
+++Market.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\market.cs
+++MarketDataWebSocket.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\marketdatawebsocket.cs
+++Mining.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\mining.cs
+++NFT.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\nft.cs
+++Pay.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\pay.cs
+++Rebate.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\rebate.cs
+++Savings.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\savings.cs
+++SpotAccountTrade.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\spotaccounttrade.cs
+++SpotService.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\spotservice.cs
+++SubAccount.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\subaccount.cs
+++UserDataStreams.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\userdatastreams.cs
+++UserDataWebSocket.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\userdatawebsocket.cs
+++AccountType.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\accounttype.cs
+++CrossMarginTransferType.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\crossmargintransfertype.cs
+++DepositStatus.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\depositstatus.cs
+++FiatOrderTransactionType.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\fiatordertransactiontype.cs
+++FiatPaymentTransactionType.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\fiatpaymenttransactiontype.cs
+++FixedAndActivityProjectType.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\fixedandactivityprojecttype.cs
+++FuturesTransferType.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\futurestransfertype.cs
+++FuturesType.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\futurestype.cs
+++Interval.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\interval.cs
+++IsolatedMarginAccountTransferType.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\isolatedmarginaccounttransfertype.cs
+++LendingType.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\lendingtype.cs
+++LiquidityOperation.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\liquidityoperation.cs
+++LiquidityRemovalType.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\liquidityremovaltype.cs
+++LoanDirection.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\loandirection.cs
+++MarginTransferType.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\margintransfertype.cs
+++NewOrderResponseType.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\neworderresponsetype.cs
+++OrderType.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\ordertype.cs
+++PositionStatus.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\positionstatus.cs
+++ProductFeatured.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\productfeatured.cs
+++ProductStatus.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\productstatus.cs
+++RedemptionType.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\redemptiontype.cs
+++Side.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\side.cs
+++SideEffectType.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\sideeffecttype.cs
+++SortBy.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\sortby.cs
+++SwapStatus.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\swapstatus.cs
+++TimeInForce.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\timeinforce.cs
+++TransferDirection.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\transferdirection.cs
+++UniversalTransferAccountType.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\universaltransferaccounttype.cs
+++UniversalTransferType.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\universaltransfertype.cs
+++WithdrawStatus.cs
+i:{03c729c3-3371-4d8d-a41d-d1b0fb1526f1}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\src\spot\models\withdrawstatus.cs
+++LogHelper.cs
+i:{9d66438e-1c6f-4ea3-919e-bad25978b96c}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\helper\loghelper.cs
+++IsolatedMarginV1StatusEnum.cs
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\enum\isolatedmarginv1statusenum.cs
+++AssetEnum.cs
+++AssetTypeEnum.cs
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\enum\assettypeenum.cs
+++SymbolTypeEnum.cs
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\enum\symboltypeenum.cs
+++MarginAccountNewOrderResponse.cs
+i:{c0487921-abd7-4cfb-81cf-01886f4fe2d0}:c:\users\ümit yılmaz\desktop\umityilmaz\projects\tradingautomation\binance-connector-dotnet-master\domain\model\binanceresponse\marginaccountneworderresponse.cs
